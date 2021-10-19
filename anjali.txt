@@ -1,0 +1,7 @@
+{
+    "Name":"Anjali Sahu",
+    "Occupation":"student",
+    "UserName" : "Anjali401",
+    "StarredTheRepo":true,
+    "FavouriteQuote":"Be a hustler"
+}
